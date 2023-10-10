@@ -1,4 +1,4 @@
-﻿int numberA=3;
-int numberB=5;
-int div=numberA/numberB;
+﻿double numberA=24;
+double numberB=13;
+double div=numberA/numberB;
 Console.WriteLine(div);
