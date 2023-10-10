@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lection1", "Lection1", "{756FE810-215D-4A7A-B55B-970825C1C824}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example001", "Example001", "{4536C5BD-E952-40FD-B25C-D633F5F8EEB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example001HelloConsole", "Lection1\Example001\Example001HelloConsole\Example001HelloConsole.csproj", "{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4536C5BD-E952-40FD-B25C-D633F5F8EEB3} = {756FE810-215D-4A7A-B55B-970825C1C824}
+		{5CA7B853-69F2-41F2-93DF-1A4243A9CB8A} = {4536C5BD-E952-40FD-B25C-D633F5F8EEB3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5553CDC-BC8A-4581-946F-DECF4B35386E}
+	EndGlobalSection
+EndGlobal
