@@ -1,0 +1,15 @@
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.exe
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\bin\Debug\net6.0\Example001HelloConsole.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\refint\Example001HelloConsole.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\Example001HelloConsole.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\C# основы\Lection1\Example001\Example001HelloConsole\obj\Debug\net6.0\ref\Example001HelloConsole.dll
