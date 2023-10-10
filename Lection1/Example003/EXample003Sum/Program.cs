@@ -1,4 +1,6 @@
-﻿int numberA=3;
-int numberB=5;
-int sum=numberA+numberB;
-Console.WriteLine(numberA+numberB);
+﻿double numberA=new Random().Next(1,100);
+Console.WriteLine(numberA);
+double numberB=new Random().Next(1,50);
+Console.WriteLine(numberB);
+double sum=numberA+numberB;
+Console.WriteLine(sum);
