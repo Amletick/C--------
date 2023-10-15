@@ -7,7 +7,7 @@ while (i<n-1)
 {
     if (array[i]==find)
     {
-        Console.WriteLine("Нашёл");
+        Console.WriteLine("Нашёл это элемент "+i);
         flag=1;
         break;
     }
