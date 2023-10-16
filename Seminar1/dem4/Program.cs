@@ -1,5 +1,5 @@
 ﻿string[] array = { "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота","Воскресенье"};
- Console.WriteLine("Введите номер дня");   
+Console.WriteLine("Введите номер дня");   
 string daystring = Console.ReadLine();
 int daynumber = Convert.ToInt32(daystring);
 if ((daynumber>=1)&&(daynumber<8))
