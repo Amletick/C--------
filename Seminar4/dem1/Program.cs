@@ -3,18 +3,25 @@
 4 -> 10
 8 -> 36*/
 
+int Prompt(string str)
+{
+    Console.WriteLine(str);
+    int number = Convert.ToInt32(Console.ReadLine());
+    return number;
+}
+
 int SumToN(int num)
 {
-    int sum=0;
-for (int i=0;i<=number;i++)
+int sum=0;
+for (int i=0;i<=num;i++)
 {
 sum+=i;
 }
-    return sum
+return sum;
 }
 
 
-int number = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Сумма чисел от 1 до "+number+" равна"+ SumToN(number));
+int A = Prompt("Введите положительное число a");
+int summa=SumToN(A);
+Console.WriteLine("Сумма чисел от 1 до "+A+" равна "+ summa);
 
