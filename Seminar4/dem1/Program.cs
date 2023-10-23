@@ -3,11 +3,18 @@
 4 -> 10
 8 -> 36*/
 
-
-int number = Convert.ToInt32(Console.ReadLine());
-int sum=0;
+int SumToN(int num)
+{
+    int sum=0;
 for (int i=0;i<=number;i++)
 {
 sum+=i;
 }
-Console.WriteLine("Сумма чисел от 1 до "+number+" равна"+ sum);
+    return sum
+}
+
+
+int number = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Сумма чисел от 1 до "+number+" равна"+ SumToN(number));
+
