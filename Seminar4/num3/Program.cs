@@ -2,7 +2,7 @@
 Задача 30: Напишите программу, которая выводит массив из 8 элементов, заполненный нулями и единицами в случайном порядке.
 [1,0,1,1,0,1,0,0]*/
 
-int[] MasGen(int[] mas,string msg)
+int[] MasGen(int[] mas)
 {
     for (int i=0;i<8;i++)
     {
@@ -12,8 +12,9 @@ int[] MasGen(int[] mas,string msg)
     return mas;
 }
 
-void MasWrite(int[] mas)
+void MasWrite(int[] mas,string msg)
 {
+Console.WriteLine(msg);
 Console.Write("[ ");
     for (int i=0;i<8;i++)
     {
@@ -22,5 +23,5 @@ Console.Write("[ ");
 Console.Write("]");
 }
 int[] mas= new int[8];
-mas=MasGen(mas,"Сгенерированный массив");
-MasWrite(mas);
+mas=MasGen(mas);
+MasWrite(mas,"Сгенерированный массив");
