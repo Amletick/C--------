@@ -7,7 +7,7 @@ int[] GenerateArray(int lengthmas)
 {
     int[] array = new int[lengthmas];
     for (int i = 0; i < array.Length; i++)
-    {
+    {++
         Console.Write($"Введите элемент массива {i} ");
         array[i] = Convert.ToInt32(Console.ReadLine());
     }
